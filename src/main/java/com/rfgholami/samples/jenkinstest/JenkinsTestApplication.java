@@ -14,7 +14,6 @@ public class JenkinsTestApplication {
     }
 
 }
-
 @RestController
 @RequestMapping(value = "/")
 class HelloController {
